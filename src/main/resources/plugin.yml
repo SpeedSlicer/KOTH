@@ -1,0 +1,4 @@
+name: KOTH
+version: 1.0.0
+author: SpeedSlicer
+main: dev.speedslicer.koth.Koth
